@@ -1,4 +1,4 @@
-var sahil={adder: function a(startnumber, endnumber, stepnumber) {
+ /*function a(startnumber, endnumber, stepnumber) {
     
     sum = 0;
     
@@ -10,11 +10,9 @@ var sahil={adder: function a(startnumber, endnumber, stepnumber) {
     }
     return sum;
 }
+*/
 
-
-
-
-/*whileloopadder: function a1(startnumber1, endnumber1, stepnumber1) {
+var sahil={ whileloopadder: function a1(startnumber1, endnumber1, stepnumber1) {
     
     sum1 = 0;
     
@@ -26,7 +24,7 @@ var sahil={adder: function a(startnumber, endnumber, stepnumber) {
     }
     return sum1;
 }
-*/
+
 
 };
 module.exports=sahil;
